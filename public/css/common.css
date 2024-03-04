@@ -1,0 +1,20 @@
+
+*{
+	font-family: 'Poppins', sans-serif; /*from font.google.com*/
+
+}
+.h-font{
+	font-family: 'Merienda', cursive;
+}
+.images_carousel_size{
+
+	width="1200" height="600";
+}
+
+.h-line{
+	width: 150px ;
+	margin: 0 auto;
+	height: 1.7px;
+
+
+}
